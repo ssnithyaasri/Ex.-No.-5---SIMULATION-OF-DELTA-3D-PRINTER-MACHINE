@@ -34,7 +34,7 @@
 
 ![image](https://github.com/ssnithyaasri/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/119122478/695cd0ae-e298-4cff-9e39-27c3d0edc679)
 
-![image](https://github.com/ssnithyaasri/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/119122478/3952109e-a21e-4ca5-b0f6-d2f398a81f76)
+
 
 Base:
 
@@ -92,9 +92,10 @@ LCD:
 
 LCD stands for Liquid Crystal Display. In the context of a delta 3D printer assembly, an LCD is a display screen integrated into the printer's control interface. It provides visual feedback and allows the user to interact with the printer by displaying menu options, settings, print progress, and other relevant information.
 
+![image](https://github.com/ssnithyaasri/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/119122478/3952109e-a21e-4ca5-b0f6-d2f398a81f76)
 
-### Name:
-### Register Number:
+### Name:NITYAA SRI S S
+### Register Number:212222230100
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
